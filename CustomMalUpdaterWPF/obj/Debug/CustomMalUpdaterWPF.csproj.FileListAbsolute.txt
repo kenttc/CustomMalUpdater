@@ -54,3 +54,6 @@ C:\tempken\Projects\CustomMalUpdater\CustomMalUpdaterWPF\bin\Debug\UtilityDomain
 C:\tempken\Projects\CustomMalUpdater\CustomMalUpdaterWPF\bin\Debug\UtilityDomain.pdb
 C:\tempken\Projects\CustomMalUpdater\CustomMalUpdaterWPF\bin\Debug\CustomMalUpdaterDomain.dll
 C:\tempken\Projects\CustomMalUpdater\CustomMalUpdaterWPF\bin\Debug\CustomMalUpdaterDomain.pdb
+C:\tempken\GitHub\CustomMalUpdater\CustomMalUpdaterWPF\bin\Debug\CustomMalUpdaterWPF.exe.config
+C:\tempken\GitHub\CustomMalUpdater\CustomMalUpdaterWPF\obj\Debug\CustomMalUpdaterWPF.exe
+C:\tempken\GitHub\CustomMalUpdater\CustomMalUpdaterWPF\obj\Debug\CustomMalUpdaterWPF.pdb

@@ -41,6 +41,7 @@
   <ItemGroup>
     <Compile Include="BoolResult.cs" />
     <Compile Include="CustomErrorObject.cs" />
+    <Compile Include="Interface\IFilesFoldersEnumerator.cs" />
     <Compile Include="Interface\IXmlSerializerAndDeserializer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
