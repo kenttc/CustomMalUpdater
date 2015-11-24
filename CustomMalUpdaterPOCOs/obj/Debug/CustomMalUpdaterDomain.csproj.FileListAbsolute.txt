@@ -1,0 +1,4 @@
+C:\tempken\Projects\CustomMalUpdater\CustomMalUpdaterPOCOs\bin\Debug\CustomMalUpdaterDomain.dll
+C:\tempken\Projects\CustomMalUpdater\CustomMalUpdaterPOCOs\bin\Debug\CustomMalUpdaterDomain.pdb
+C:\tempken\Projects\CustomMalUpdater\CustomMalUpdaterPOCOs\obj\Debug\CustomMalUpdaterDomain.dll
+C:\tempken\Projects\CustomMalUpdater\CustomMalUpdaterPOCOs\obj\Debug\CustomMalUpdaterDomain.pdb

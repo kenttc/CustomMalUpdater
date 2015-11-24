@@ -1,0 +1,44 @@
+C:\Users\Ken\Google Drive\Projects\CustomMalUpdater\CustomMalUpdater\bin\Debug\CustomMalUpdater.exe.config
+C:\Users\Ken\Google Drive\Projects\CustomMalUpdater\CustomMalUpdater\bin\Debug\CustomMalUpdater.exe
+C:\Users\Ken\Google Drive\Projects\CustomMalUpdater\CustomMalUpdater\bin\Debug\CustomMalUpdater.pdb
+C:\Users\Ken\Google Drive\Projects\CustomMalUpdater\CustomMalUpdater\bin\Debug\AutoMapper.dll
+C:\Users\Ken\Google Drive\Projects\CustomMalUpdater\CustomMalUpdater\bin\Debug\CustomMalUpdaterDatalayer.dll
+C:\Users\Ken\Google Drive\Projects\CustomMalUpdater\CustomMalUpdater\bin\Debug\CustomMalUpdaterPOCOs.dll
+C:\Users\Ken\Google Drive\Projects\CustomMalUpdater\CustomMalUpdater\bin\Debug\EntityFramework.dll
+C:\Users\Ken\Google Drive\Projects\CustomMalUpdater\CustomMalUpdater\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ken\Google Drive\Projects\CustomMalUpdater\CustomMalUpdater\bin\Debug\UtilityImplementations.dll
+C:\Users\Ken\Google Drive\Projects\CustomMalUpdater\CustomMalUpdater\bin\Debug\UtilityInterfaces.dll
+C:\Users\Ken\Google Drive\Projects\CustomMalUpdater\CustomMalUpdater\bin\Debug\UtilityPOCOs.dll
+C:\Users\Ken\Google Drive\Projects\CustomMalUpdater\CustomMalUpdater\bin\Debug\CustomMalUpdaterDatalayer.pdb
+C:\Users\Ken\Google Drive\Projects\CustomMalUpdater\CustomMalUpdater\bin\Debug\CustomMalUpdaterPOCOs.pdb
+C:\Users\Ken\Google Drive\Projects\CustomMalUpdater\CustomMalUpdater\bin\Debug\UtilityImplementations.pdb
+C:\Users\Ken\Google Drive\Projects\CustomMalUpdater\CustomMalUpdater\bin\Debug\UtilityInterfaces.pdb
+C:\Users\Ken\Google Drive\Projects\CustomMalUpdater\CustomMalUpdater\bin\Debug\UtilityPOCOs.pdb
+C:\Users\Ken\Google Drive\Projects\CustomMalUpdater\CustomMalUpdater\bin\Debug\AutoMapper.xml
+C:\Users\Ken\Google Drive\Projects\CustomMalUpdater\CustomMalUpdater\bin\Debug\EntityFramework.xml
+C:\Users\Ken\Google Drive\Projects\CustomMalUpdater\CustomMalUpdater\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ken\Google Drive\Projects\CustomMalUpdater\CustomMalUpdater\obj\Debug\CustomMalUpdater.csprojResolveAssemblyReference.cache
+C:\Users\Ken\Google Drive\Projects\CustomMalUpdater\CustomMalUpdater\obj\Debug\CustomMalUpdater.exe
+C:\Users\Ken\Google Drive\Projects\CustomMalUpdater\CustomMalUpdater\obj\Debug\CustomMalUpdater.pdb
+C:\tempken\Projects\CustomMalUpdater\CustomMalUpdater\obj\Debug\CustomMalUpdater.csprojResolveAssemblyReference.cache
+C:\tempken\Projects\CustomMalUpdater\CustomMalUpdater\bin\Debug\CustomMalUpdater.exe.config
+C:\tempken\Projects\CustomMalUpdater\CustomMalUpdater\bin\Debug\CustomMalUpdater.exe
+C:\tempken\Projects\CustomMalUpdater\CustomMalUpdater\bin\Debug\CustomMalUpdater.pdb
+C:\tempken\Projects\CustomMalUpdater\CustomMalUpdater\bin\Debug\AutoMapper.dll
+C:\tempken\Projects\CustomMalUpdater\CustomMalUpdater\bin\Debug\CustomMalUpdaterDatalayer.dll
+C:\tempken\Projects\CustomMalUpdater\CustomMalUpdater\bin\Debug\CustomMalUpdaterServices.dll
+C:\tempken\Projects\CustomMalUpdater\CustomMalUpdater\bin\Debug\EntityFramework.dll
+C:\tempken\Projects\CustomMalUpdater\CustomMalUpdater\bin\Debug\EntityFramework.SqlServer.dll
+C:\tempken\Projects\CustomMalUpdater\CustomMalUpdater\bin\Debug\UtilityImplementations.dll
+C:\tempken\Projects\CustomMalUpdater\CustomMalUpdater\bin\Debug\CustomMalUpdaterDatalayer.pdb
+C:\tempken\Projects\CustomMalUpdater\CustomMalUpdater\bin\Debug\CustomMalUpdaterServices.pdb
+C:\tempken\Projects\CustomMalUpdater\CustomMalUpdater\bin\Debug\UtilityImplementations.pdb
+C:\tempken\Projects\CustomMalUpdater\CustomMalUpdater\bin\Debug\AutoMapper.xml
+C:\tempken\Projects\CustomMalUpdater\CustomMalUpdater\bin\Debug\EntityFramework.xml
+C:\tempken\Projects\CustomMalUpdater\CustomMalUpdater\bin\Debug\EntityFramework.SqlServer.xml
+C:\tempken\Projects\CustomMalUpdater\CustomMalUpdater\obj\Debug\CustomMalUpdater.exe
+C:\tempken\Projects\CustomMalUpdater\CustomMalUpdater\obj\Debug\CustomMalUpdater.pdb
+C:\tempken\Projects\CustomMalUpdater\CustomMalUpdater\bin\Debug\UtilityDomain.dll
+C:\tempken\Projects\CustomMalUpdater\CustomMalUpdater\bin\Debug\UtilityDomain.pdb
+C:\tempken\Projects\CustomMalUpdater\CustomMalUpdater\bin\Debug\CustomMalUpdaterDomain.dll
+C:\tempken\Projects\CustomMalUpdater\CustomMalUpdater\bin\Debug\CustomMalUpdaterDomain.pdb

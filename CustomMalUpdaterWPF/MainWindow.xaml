@@ -1,0 +1,41 @@
+﻿<Window x:Class="CustomMalUpdaterWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="500" Width="600">
+    <Grid MinHeight="500" VerticalAlignment="Top">
+        <TextBox Name="TextBoxSearch" Margin="141,33,142,0" KeyDown="TextBoxSearch_KeyDown_1" TextWrapping="Wrap" MouseDoubleClick="TextBoxSearch_OnMouseDoubleClick" Height="23" VerticalAlignment="Top" />
+        <Label Content="Source anime" HorizontalAlignment="Left" Margin="31,30,0,0" VerticalAlignment="Top" Width="105"/>
+        <ListView Margin="145,88,138,233" Name="ListViewResult" VerticalAlignment="Stretch" HorizontalAlignment="Stretch" VerticalContentAlignment="Stretch" >
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Title"
+				    DisplayMemberBinding="{Binding Title}"
+				    Width="250"/>
+                    <GridViewColumn Header="Year"
+				    DisplayMemberBinding="{Binding Year}"
+				    Width="100"/>
+                    <GridViewColumn Header="Episodes"
+				    DisplayMemberBinding="{Binding Episodes}"
+				    Width="100"/>
+                    <GridViewColumn Header="Season"
+				    DisplayMemberBinding="{Binding Season}"
+				    Width="100"/>
+                </GridView>
+            </ListView.View>
+            <ListView.ItemContainerStyle>
+                <Style TargetType="ListViewItem">
+                    <EventSetter Event="PreviewMouseLeftButtonDown" Handler="ListViewItem_PreviewMouseLeftButtonDown" />
+                </Style>
+            </ListView.ItemContainerStyle>
+        </ListView>
+        <Button Content="Search" Margin="0,34,41,0" VerticalAlignment="Top" Click="Button_Click" HorizontalAlignment="Right" Width="75"/>
+        <TextBox Margin="142,0,140,196" TextWrapping="Wrap" Text="" Name="TextBoxFolderPath" MouseDoubleClick="TextBoxFolderPath_OnMouseDoubleClick" Height="32" VerticalAlignment="Bottom"/>
+        <Button Content="Get anime data" HorizontalAlignment="Right" Margin="0,61,20,0" Width="96" Click="SaveSearchTerm" Height="22" VerticalAlignment="Top"/>
+        <Label Name="LblMessage" Content="" HorizontalAlignment="Left" Margin="141,0,0,474" Width="311" Height="26" VerticalAlignment="Bottom"/>
+        <TextBox Name="TextboxSynopsis" Margin="143,0,140,46" TextWrapping="Wrap" Text="" Height="145" VerticalAlignment="Bottom"/>
+        <Label Name="lblAnimeId" Content="" HorizontalAlignment="Left" Margin="31,252,0,0" VerticalAlignment="Top" Width="91"/>
+        <Button Content="ForceRefresh" Margin="0,0,41,206" Click="ForceRefresh" Height="22" VerticalAlignment="Bottom" HorizontalAlignment="Right" Width="75"/>
+        <Button Content="Open folder" Margin="0,0,41,169" Height="22" VerticalAlignment="Bottom" HorizontalAlignment="Right" Width="75" Click="Button_Click_1"/>
+
+    </Grid>
+</Window>

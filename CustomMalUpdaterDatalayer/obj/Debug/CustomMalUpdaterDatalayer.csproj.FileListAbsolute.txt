@@ -1,0 +1,20 @@
+C:\Users\Ken\Google Drive\Projects\CustomMalUpdater\CustomMalUpdaterDatalayer\bin\Debug\CustomMalUpdaterDatalayer.dll.config
+C:\Users\Ken\Google Drive\Projects\CustomMalUpdater\CustomMalUpdaterDatalayer\bin\Debug\CustomMalUpdaterDatalayer.dll
+C:\Users\Ken\Google Drive\Projects\CustomMalUpdater\CustomMalUpdaterDatalayer\bin\Debug\CustomMalUpdaterDatalayer.pdb
+C:\Users\Ken\Google Drive\Projects\CustomMalUpdater\CustomMalUpdaterDatalayer\bin\Debug\EntityFramework.dll
+C:\Users\Ken\Google Drive\Projects\CustomMalUpdater\CustomMalUpdaterDatalayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ken\Google Drive\Projects\CustomMalUpdater\CustomMalUpdaterDatalayer\bin\Debug\EntityFramework.xml
+C:\Users\Ken\Google Drive\Projects\CustomMalUpdater\CustomMalUpdaterDatalayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ken\Google Drive\Projects\CustomMalUpdater\CustomMalUpdaterDatalayer\obj\Debug\CustomMalUpdaterDatalayer.dll
+C:\Users\Ken\Google Drive\Projects\CustomMalUpdater\CustomMalUpdaterDatalayer\obj\Debug\CustomMalUpdaterDatalayer.pdb
+C:\Users\Ken\Google Drive\Projects\CustomMalUpdater\CustomMalUpdaterDatalayer\obj\Debug\CustomMalUpdaterDatalayer.csprojResolveAssemblyReference.cache
+C:\tempken\Projects\CustomMalUpdater\CustomMalUpdaterDatalayer\bin\Debug\CustomMalUpdaterDatalayer.dll.config
+C:\tempken\Projects\CustomMalUpdater\CustomMalUpdaterDatalayer\bin\Debug\CustomMalUpdaterDatalayer.dll
+C:\tempken\Projects\CustomMalUpdater\CustomMalUpdaterDatalayer\bin\Debug\CustomMalUpdaterDatalayer.pdb
+C:\tempken\Projects\CustomMalUpdater\CustomMalUpdaterDatalayer\bin\Debug\EntityFramework.dll
+C:\tempken\Projects\CustomMalUpdater\CustomMalUpdaterDatalayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\tempken\Projects\CustomMalUpdater\CustomMalUpdaterDatalayer\bin\Debug\EntityFramework.xml
+C:\tempken\Projects\CustomMalUpdater\CustomMalUpdaterDatalayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\tempken\Projects\CustomMalUpdater\CustomMalUpdaterDatalayer\obj\Debug\CustomMalUpdaterDatalayer.csprojResolveAssemblyReference.cache
+C:\tempken\Projects\CustomMalUpdater\CustomMalUpdaterDatalayer\obj\Debug\CustomMalUpdaterDatalayer.dll
+C:\tempken\Projects\CustomMalUpdater\CustomMalUpdaterDatalayer\obj\Debug\CustomMalUpdaterDatalayer.pdb
