@@ -129,6 +129,7 @@ namespace CustomMalUpdaterWPF
                 LblMessage.Content = _animeRepo.AddNewSearchTerm(TextBoxSearch.Text.Trim());
                 _animeManager.ProcessNewSearchTerms(1,2);
                 _animeManager.PrepFolders(1,2);
+                LblMessage.Content = "processed new items";
 
             }
                 
@@ -143,6 +144,7 @@ namespace CustomMalUpdaterWPF
             LblMessage.Content = _animeRepo.MarkForDataUpdate(id);
             _animeManager.UpdateAnimeDetailsFromApi(1,2);
             _animeManager.PrepFolders(1,2);
+            LblMessage.Content = "details updated";
 
         }
 

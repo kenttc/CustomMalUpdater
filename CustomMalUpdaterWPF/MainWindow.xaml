@@ -31,7 +31,7 @@
         <Button Content="Search" Margin="0,34,41,0" VerticalAlignment="Top" Click="Button_Click" HorizontalAlignment="Right" Width="75"/>
         <TextBox Margin="142,0,140,196" TextWrapping="Wrap" Text="" Name="TextBoxFolderPath" MouseDoubleClick="TextBoxFolderPath_OnMouseDoubleClick" Height="32" VerticalAlignment="Bottom"/>
         <Button Content="Get anime data" HorizontalAlignment="Right" Margin="0,61,20,0" Width="96" Click="SaveSearchTerm" Height="22" VerticalAlignment="Top"/>
-        <Label Name="LblMessage" Content="" HorizontalAlignment="Left" Margin="141,0,0,474" Width="311" Height="26" VerticalAlignment="Bottom"/>
+        <Label Name="LblMessage" Content="" Margin="141,0,140,0" Height="26" VerticalAlignment="Top"/>
         <TextBox Name="TextboxSynopsis" Margin="143,0,140,46" TextWrapping="Wrap" Text="" Height="145" VerticalAlignment="Bottom"/>
         <Label Name="lblAnimeId" Content="" HorizontalAlignment="Left" Margin="31,252,0,0" VerticalAlignment="Top" Width="91"/>
         <Button Content="ForceRefresh" Margin="0,0,41,206" Click="ForceRefresh" Height="22" VerticalAlignment="Bottom" HorizontalAlignment="Right" Width="75"/>
